@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints/
+notebooks/genre-prediction/
+notebooks/wandb/
+*.DS_Store
