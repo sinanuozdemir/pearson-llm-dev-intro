@@ -21,9 +21,18 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 [Classification with BERT](notebooks/anime_category_classification_model_freezing.ipynb)
 
-[Intro to Prompt Engineeirng](notebooks/intro_prompt_engineering.ipynb)
+[Finetuning LLMs with OpenAI](notebooks/fine_tuned_classification_sentiment.ipynb)
 
-[Advanced Prompt Engineeirng](notebooks/advanced_prompt_engineering.ipynb)
+[BERT vs ChatGPT](notebooks/BERT%20vs%20GPT.ipynb)
+
+[Introduction to Prompt Engineering](notebooks/intro_prompt_engineering.ipynb)
+
+[Advanced to Prompt Engineering](notebooks/adv_prompt_engineering.ipynb)
+
+[Semantic Search](notebooks/semantic_search.ipynb)
+
+[LLM Distillation](notebooks/distillation.ipynb)
+
 
 ## Instructor
 
