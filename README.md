@@ -15,9 +15,15 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 ### Notebooks
 
+#### Intro to LLMs
+
 [Intro with BERT](notebooks/intro_to_bert.ipynb)
 
 [Intro to GPT](notebooks/intro_to_gpt.ipynb)
+
+[Comparing LLM Token Embeddings](notebooks/llm_embeddings.ipynb)
+
+#### Intro to Fine-tuning LLMs
 
 [Classification with BERT](notebooks/anime_category_classification_model_freezing.ipynb)
 
@@ -25,13 +31,15 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 [BERT vs ChatGPT](notebooks/BERT%20vs%20GPT.ipynb)
 
+[LLM Distillation](notebooks/distillation.ipynb)
+
+#### Prompt Engineering + RAG
+
 [Introduction to Prompt Engineering](notebooks/intro_prompt_engineering.ipynb)
 
 [Advanced to Prompt Engineering](notebooks/adv_prompt_engineering.ipynb)
 
 [Semantic Search](notebooks/semantic_search.ipynb)
-
-[LLM Distillation](notebooks/distillation.ipynb)
 
 
 ## Instructor
