@@ -1,4 +1,4 @@
-bertviz
+bertviz==1.4.0
 pinecone-client==3.0.1
 transformers==4.36.2
 torch==2.0.1
