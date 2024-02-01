@@ -41,6 +41,10 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 [Semantic Search](notebooks/semantic_search.ipynb)
 
+#### Extra / Advanced
+
+[Probing LLMs for a world model](https://colab.research.google.com/drive/10Wr6xadThJgn5ZUQ-6pdS5_4nCJSNP9j?usp=sharing)  - based on the paper ["Language Models Represent Space and Time"](https://arxiv.org/pdf/2310.02207.pdf)
+
 
 ## Instructor
 
