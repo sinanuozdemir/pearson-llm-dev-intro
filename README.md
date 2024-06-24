@@ -41,6 +41,9 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 [Semantic Search](notebooks/semantic_search.ipynb)
 
+[Retrieval Augmented Generation (RAG)](notebooks/rag_bot.ipynb)
+
+
 #### Extra / Advanced
 
 [Fine-tuning LLama-2 to be instructionally aligned](https://colab.research.google.com/drive/1xKmvmZisN-QoNzm4JXnJ4VEWvp1GfLCq?usp=sharing)
