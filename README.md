@@ -46,7 +46,7 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 #### Extra / Advanced
 
-[Fine-tuning LLama-2 to be instructionally aligned](https://colab.research.google.com/drive/1xKmvmZisN-QoNzm4JXnJ4VEWvp1GfLCq?usp=sharing)
+[Github to Fine-tune LLama-3 to be instructionally aligned - SFT + reward modeling + RLHF](https://github.com/sinanuozdemir/odsc-llm-alignment)
 
 [Probing LLMs for a world model](https://colab.research.google.com/drive/10Wr6xadThJgn5ZUQ-6pdS5_4nCJSNP9j?usp=sharing)  - based on the paper ["Language Models Represent Space and Time"](https://arxiv.org/pdf/2310.02207.pdf)
 
